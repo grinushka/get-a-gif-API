@@ -1,4 +1,4 @@
-<h1> Get-A-Gif </h1>
+<h1> Get-A-Gif</h1>
 
 Short API to get GIFs based on a search term.
 
