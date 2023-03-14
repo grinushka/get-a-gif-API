@@ -4,7 +4,7 @@ Short API to get GIFs based on a search term.
 
 <h2> Screenshots </h2>
 
-![App Screenshot](./get-a-gif-preview.png)
+![App Screenshot](./preview-image.png)
 
 <h2> Technologies Used </h2>
 
