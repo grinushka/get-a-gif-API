@@ -1,6 +1,6 @@
 <h1> GET-A-Gif </h1>
 
-Short API for gettings gif based on the search term.
+Short API to get GIFs based on a search term.
 
 <h2> Screenshots </h2>
 
